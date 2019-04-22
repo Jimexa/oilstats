@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "year": 2017,
+        "month": "January",
+        "production": 5842,
+        "import": 48713,
+        "export": 3310,
+        "consumption": 50256
+    },
+    {
+        "id": 2,
+        "year": 2017,
+        "month": "February",
+        "production": 5235,
+        "import": 42907,
+        "export": 3319,
+        "consumption": 43574
+    },
+    {
+        "id": 3,
+        "year": 2017,
+        "month": "March",
+        "production": 5768,
+        "import": 45807,
+        "export": 3658,
+        "consumption": 47467 
+    },
+    {
+        "id": 4,
+        "year": 2017,
+        "month": "April",
+        "production": 5377,
+        "import": 44439,
+        "export": 2963,
+        "consumption": 48109
+    },
+    {
+        "id": 5,
+        "year": 2017,
+        "month": "May",
+        "production": 5327,
+        "import": 46834,
+        "export": 3802,
+        "consumption": 47632
+    },
+    {
+        "id": 6,
+        "year": 2017,
+        "month": "June",
+        "production": 5182,
+        "import": 47295,
+        "export": 3327,
+        "consumption": 47773
+    },
+    {
+        "id": 7,
+        "year": 2017,
+        "month": "July",
+        "production": 5409,
+        "import": 49656,
+        "export": 3927,
+        "consumption": 52497
+    },
+    {
+        "id": 8,
+        "year": 2017,
+        "month": "August",
+        "production": 5184,
+        "import": 48287,
+        "export": 2738,
+        "consumption": 52488
+    },
+    {
+        "id": 9,
+        "year": 2017,
+        "month": "September",
+        "production": 5346,
+        "import": 47213,
+        "export": 4088,
+        "consumption": 49781
+    },
+    {
+        "id": 10,
+        "year": 2017,
+        "month": "October",
+        "production": 5699,
+        "import": 48326,
+        "export": 3600,
+        "consumption": 50902
+    },
+    {
+        "id": 11,
+        "year": 2017,
+        "month": "November",
+        "production": 5649,
+        "import": 49647,
+        "export": 3677,
+        "consumption": 49873
+    },
+    {
+        "id": 12,
+        "year": 2017,
+        "month": "December",
+        "production": 4867,
+        "import": 47767,
+        "export": 2977,
+        "consumption": 51824
+    },
+    {
+        "id": 13,
+        "year": 2018,
+        "month": "January",
+        "production": 6057,
+        "import": 49076,
+        "export": 3712,
+        "consumption": 51657
+    },
+    {
+        "id": 14,
+        "year": 2018,
+        "month": "February",
+        "production": 5174,
+        "import": 43784,
+        "export": 2958,
+        "consumption": 43927
+    },
+    {
+        "id": 15,
+        "year": 2018,
+        "month": "March",
+        "production": 5452,
+        "import": 45669,
+        "export": 3440,
+        "consumption": 46581 
+    },
+    {
+        "id": 16,
+        "year": 2018,
+        "month": "April",
+        "production": 5786,
+        "import": 43718,
+        "export": 3167,
+        "consumption": 45296
+    },
+    {
+        "id": 17,
+        "year": 2018,
+        "month": "May",
+        "production": 5552,
+        "import": 45870,
+        "export": 3255,
+        "consumption": 47793
+    },
+    {
+        "id": 18,
+        "year": 2018,
+        "month": "June",
+        "production": 5044,
+        "import": 44074,
+        "export": 2714,
+        "consumption": 47600
+    },
+    {
+        "id": 19,
+        "year": 2018,
+        "month": "July",
+        "production": 5466,
+        "import": 48512,
+        "export": 3698,
+        "consumption": 50277
+    },
+    {
+        "id": 20,
+        "year": 2018,
+        "month": "August",
+        "production": 4981,
+        "import": 50211,
+        "export": 3068,
+        "consumption": 53064
+    },
+    {
+        "id": 21,
+        "year": 2018,
+        "month": "September",
+        "production": 4967,
+        "import": 44670,
+        "export": 2814,
+        "consumption": 49091
+    },
+    {
+        "id": 22,
+        "year": 2018,
+        "month": "October",
+        "production": 5638,
+        "import": 47760,
+        "export": 3181,
+        "consumption": 48845
+    },
+    {
+        "id": 23,
+        "year": 2018,
+        "month": "November",
+        "production": 5800,
+        "import": 40490,
+        "export": 3783,
+        "consumption": 43061
+    }
+]

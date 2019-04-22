@@ -1,0 +1,35 @@
+{
+  "name": "allwebstats",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native-expo-viewport-units": "0.0.8",
+    "react-native-viewport-units": "0.0.5",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "recharts": "^1.5.0",
+    "save-dev": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -b gh-pages -d dist"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": { "type": "git", 
+    "url": "<https://github.com/Jimexa/oilstats>" },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

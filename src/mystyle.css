@@ -1,0 +1,27 @@
+.img {
+    min-height: 83vh;
+    background-image: url("./img/coal-photo2.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.txt{
+    vertical-align: middle;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.recharts-wrapper {
+    margin : 0 auto;
+  }
+.txt2{
+    vertical-align: middle;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
